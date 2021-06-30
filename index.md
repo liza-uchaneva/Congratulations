@@ -13,9 +13,7 @@
 ул. Горошникова, 11
 </p>
 
-<p align="center">
-### Demidov Plaza
-</p>
+## Demidov Plaza
 
  <p align="center">
 <img src="https://media.giphy.com/media/ekkKldHuLW90Y/giphy.gif" alt="animated" />
