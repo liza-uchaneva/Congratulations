@@ -1,4 +1,4 @@
-## Поздравляем!
+## *Поздравляем!*
 
 <p align="center">
 Ты прошел все испытания, собрал все необходимое и полностью готов к встрече с невестой!
@@ -13,7 +13,7 @@
 ул. Горошникова, 11
 </p>
 
-## Demidov Plaza
+## *Demidov Plaza*
 
  <p align="center">
 <img src="https://media.giphy.com/media/ekkKldHuLW90Y/giphy.gif" alt="animated" />
